@@ -1,4 +1,4 @@
-# SIPREV v1.2 — Pesquisa em Tecnologia Emergente
+# SIPREV v1.2 
 
 **Sistema Inteligente de Previsão Epidemiológica de Dengue**
 
